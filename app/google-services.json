@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "921252237613",
+    "firebase_url": "https://cancerjourneyapp-default-rtdb.firebaseio.com",
+    "project_id": "cancerjourneyapp",
+    "storage_bucket": "cancerjourneyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921252237613:android:cfbafc5b6119a64ba603a4",
+        "android_client_info": {
+          "package_name": "com.esraa.CancerJourneyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921252237613-pha70prrth9nb4as0hq5aq3aolu8so9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUrareEaZF-t7orvpIIwSNwHWry1B7mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921252237613-pha70prrth9nb4as0hq5aq3aolu8so9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921252237613:android:525141b96e2fcec9a603a4",
+        "android_client_info": {
+          "package_name": "com.scout.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921252237613-pha70prrth9nb4as0hq5aq3aolu8so9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxUrareEaZF-t7orvpIIwSNwHWry1B7mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921252237613-pha70prrth9nb4as0hq5aq3aolu8so9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
